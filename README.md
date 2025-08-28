@@ -7,7 +7,7 @@ Hugging Face에서 공개된 **Qwen2.5 Instruct GGUF 모델**을
 
 ## ✨ 기능
 - 첫 문장을 입력하면 모델이 소설을 이어서 한 문단씩 작성
-- `JSON`, `TXT`, `Markdown` 파일로 저장하여 기록 유지
+- `JSON`, `TXT` 파일로 저장하여 기록 유지
 - 매번 실행해도 이전 이야기를 불러와 이어서 계속 작성 가능
 - 파라미터(`temperature`, `top_p`, `repeat_penalty`)를 조절해 글 스타일 변화 관찰
 - 글을 바꾸고 싶다면 저장된 파일을 삭제하거나 이동

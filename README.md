@@ -22,7 +22,7 @@ Hugging Face에서 공개된 **Qwen2.5 Instruct GGUF 모델**을
 ---
 
 ## 📥 만들어진 txt파일로 입력과 출력 확인
-```
+
 ![screenshot](assets/screenshot.png)
 
 
